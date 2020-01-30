@@ -4,3 +4,5 @@ let variable = {
 }
 
 console.log(`The variable is ${variable.property1}, ${variable.property2}, and I'm going to add a conflict into this line!`)
+console.log(`hahaha I'm gonna screw up this code.`)
+console.log(`lolz`)
