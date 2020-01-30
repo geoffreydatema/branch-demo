@@ -3,4 +3,4 @@ let variable = {
     property2: 'Steve'
 }
 
-console.log(`The variable is ${variable.property1}, ${variable.property2}`)
+console.log(`The variable is ${variable.property1}, ${variable.property2}, and I'm going to add a conflict into this line!`)
